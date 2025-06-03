@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eKzuIG3S7Sz2swOH9//i6b5G51tNkNVcm6sccD5I0Z0=",
+  "Source": "ImageRecognitionAPI",
+  "BasePath": "_content/ImageRecognitionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
